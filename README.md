@@ -1,1 +1,1 @@
-# https://github.com/lena1004/rsschool-cv/blob/gh-pages/cv.md 
+https://lena1004.github.io/rsschool-cv/cv
